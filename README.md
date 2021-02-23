@@ -34,7 +34,7 @@ A ideia do *move.it* é ajudar pessoas que ficam muito tempo na frente do compu
   - Para clonar execute esse comando no seu terminal
 
     ```bash
-    git clone https://github.com/DouglasVarollo/NLW4-react.git
+    git clone https://github.com/MatheusFC2/nlw04-moveit-next.git
     ```
 
 - Acesse a pasta **NLW4-react** pelo o terminal
