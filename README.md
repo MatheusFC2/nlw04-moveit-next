@@ -10,7 +10,7 @@
   <a href="#licenca">Licença</a>
 </p>
 
-<img align="center" src="./img/background.png" />
+<img align="center" src="./public/backgroundreadme.png" />
 
 <h2 id="sobre-o-projeto">Sobre o projeto</h2>
 
