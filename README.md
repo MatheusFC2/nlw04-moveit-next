@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./img/logo.png" /></h1>
+<h1 align="center"><img src="./public/logoreadme.png" /></h1>
 
 <p align="center">Projeto desenvolvido na semana Next Level Week 4.0 da Rocketseat.</p>
 
