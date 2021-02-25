@@ -1,7 +1,7 @@
-import '../styles/global.css';
+import '../assets/styles/global.css'
 
-function MyApp({ Component, pageProps }) {
+function Moveit({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
 
-export default MyApp
+export default Moveit
